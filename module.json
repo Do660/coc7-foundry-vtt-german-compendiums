@@ -1,0 +1,59 @@
+{
+  "id": "coc7-foundry-vtt-german-compendiums",
+  "title": "Kompendien: Deutsch (Call of Cthulhu 7th edition)",
+  "description": "Inoffizielle deutsche Kompendien für Call of Cthulhu - Unofficial german compendiums for Call of Cthulhu",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Do660"
+    }
+  ],
+  "relationships": {
+    "systems": [{
+      "id": "CoC7",
+      "type": "system",
+      "manifest": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/releases/latest/download/system.json",
+      "compatibility": {
+        "verified": "7.4"
+      }
+    }]
+  },
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Cthulhus Ruf 7. Auflage Pen&Paper",
+      "sorting": "a",
+      "color": "#7d007d",
+      "packs": [
+        "fertigkeiten"
+      ]
+    }
+  ],
+  "packs": [
+    {
+      "name": "fertigkeiten",
+      "label": "Fertigkeiten",
+      "path": "packs/de-skills",
+      "type": "Item",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "system": "CoC7",
+  "url": "https://github.com/Do660/coc7-foundry-vtt-german-compendiums",
+  "manifest": "https://raw.githubusercontent.com/Do660/coc7-foundry-vtt-german-compendiums/releases/latest/download/module.json",
+  "download": "https://github.com/Do660/coc7-foundry-vtt-german-compendiums/releases/latest/download/module.zip"
+}

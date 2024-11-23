@@ -1,0 +1,2166 @@
+_id: UOuN0gESXPp2HXwH
+name: Buchhaltung
+type: skill
+img: systems/CoC7/assets/icons/skills/accounting.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.accounting
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: dQ4zUjSteT3sgwKx
+name: Tierdressur
+type: skill
+img: systems/CoC7/assets/icons/skills/animal_handling.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+    rarity: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.animal-handling
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: ovIp66Luwfwbq28F
+name: Anthropologie
+type: skill
+img: systems/CoC7/assets/icons/skills/anthropology.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.anthropology
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: wOs3gryeGRPkGoWD
+name: Werte schätzen
+type: skill
+img: systems/CoC7/assets/icons/skills/appraise.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.appraise
+      lang: de
+      priority: 0
+---
+_id: GHhkcJUqjcP4lToY
+name: Archäologie
+type: skill
+img: systems/CoC7/assets/icons/skills/archaeology.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.archaeology
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+      priority: 0
+---
+_id: m6V53lyfz7zh95FE
+name: Handwerk/Kunst (Bühnenkunst)
+type: skill
+img: systems/CoC7/assets/icons/skills/art_craft_acting.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.art-craft-acting
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        gasLight: true
+        regencyPulp: true
+        regency: true
+      priority: 0
+---
+_id: HAuFBG4ZT2yO9yn7
+name: Handwerk/Kunst (variabel)
+type: skill
+img: systems/CoC7/assets/icons/skills/art_craft_any.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    special: true
+    requiresname: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.art-craft-any
+      lang: de
+      priority: 0
+---
+_id: m8sBJxvuUdtQ2mDU
+name: Handwerk/Kunst (Bildende Kunst)
+type: skill
+img: systems/CoC7/assets/icons/skills/art_craft_fine_art.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.art-craft-fine-art
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+      priority: 0
+---
+_id: zcvnv8qY4GrVwwTL
+name: Handwerk/Kunst (Fälscherei)
+type: skill
+img: systems/CoC7/assets/icons/skills/art_craft_forgery.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.art-craft-forgery
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+      priority: 0
+---
+_id: WLYZNASZ2YP8zN3g
+name: Handwerk/Kunst (Fotografie)
+type: skill
+img: systems/CoC7/assets/icons/skills/art_craft_photography.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.art-craft-photography
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        gasLight: true
+      priority: 0
+---
+_id: JgtxiN3KzooOWIQV
+name: Charme
+type: skill
+img: systems/CoC7/assets/icons/skills/charm.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 15
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.charm
+      lang: de
+      priority: 0
+---
+_id: I80gmmo830LuOBKl
+name: Bürgerkunde
+type: skill
+img: systems/CoC7/assets/icons/skills/shaking-hands.svg
+system:
+  description:
+    value: <p>See the Cthulhu Invictus</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.civics
+      lang: de
+      eras:
+        invictus: true
+      priority: 0
+---
+_id: oh5eFj00Wohnx1My
+name: Klettern
+type: skill
+img: systems/CoC7/assets/icons/skills/climb.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.climb
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        darkAges: true
+        darkAgesPulp: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+        gasLight: true
+      priority: 0
+---
+_id: VZSv9eodMQ4ZPcrO
+name: Computernutzung
+type: skill
+img: systems/CoC7/assets/icons/skills/computer_use.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.computer-use
+      lang: de
+      eras:
+        modern: true
+        modernPulp: true
+      priority: 0
+---
+_id: vYrJ5h9cIQBzvw8E
+name: Finanzkraft
+type: skill
+img: systems/CoC7/assets/icons/skills/credit_rating.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 0
+  properties:
+    noxpgain: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.credit-rating
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: WJky66ezt2ef5ksH
+name: Cthulhu-Mythos
+type: skill
+img: systems/CoC7/assets/icons/skills/cthulhu_mythos.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 0
+  properties:
+    noadjustments: true
+    noxpgain: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.cthulhu-mythos
+      lang: de
+      priority: 0
+---
+_id: bJt90h73GqdP7ti6
+name: Sprengen
+type: skill
+img: systems/CoC7/assets/icons/skills/demolitions.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    rarity: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.demolitions
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+      priority: 0
+---
+_id: gzNPM9gbx0EZffBV
+name: Verkleiden
+type: skill
+img: systems/CoC7/assets/icons/skills/disguise.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.disguise
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        darkAges: true
+        darkAgesPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: 4lN6yD6zwbjX6BFp
+name: Gerätetauchen
+type: skill
+img: systems/CoC7/assets/icons/skills/diving_helmet.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    push: true
+    rarity: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.diving
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+      priority: 0
+---
+_id: wK8XxNj9QwXlGFEb
+name: Ausweichen
+type: skill
+img: systems/CoC7/assets/icons/skills/dodge.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1/2*@DEX
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.dodge
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        darkAges: true
+        darkAgesPulp: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+        gasLight: true
+      priority: 0
+---
+_id: Og2OWQH93aSDWAMZ
+name: Autofahren
+type: skill
+img: systems/CoC7/assets/icons/skills/drive_auto.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.drive-auto
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: Sxviv60td6kbS4kp
+name: Kutsche lenken
+type: skill
+img: systems/CoC7/assets/icons/skills/cartwheel.svg
+system:
+  description:
+    value: <p>See the Cthulhu by Gaslight</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.drive-carriage
+      lang: de
+      eras:
+        gasLight: true
+        regency: true
+        regencyPulp: true
+      priority: 0
+---
+_id: rAK5soSX1n3jXj2A
+name: Pferd / Ochse führen
+type: skill
+img: systems/CoC7/assets/icons/skills/cartwheel.svg
+system:
+  description:
+    value: <p>See the Cthulhu Invictus</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.drive-horse-oxen
+      lang: de
+      eras:
+        darkAges: true
+        darkAgesPulp: true
+        invictus: true
+      priority: 0
+---
+_id: sqenne0VZoF54W5k
+name: Kutsche / Wagen lenken
+type: skill
+img: systems/CoC7/assets/icons/skills/cartwheel.svg
+system:
+  description:
+    value: <p>See the Down Darker Trails Rulebook</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.drive-wagon-coach
+      lang: de
+      eras:
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+      priority: 0
+---
+_id: NBkq8oCGM1FjmsyF
+name: Elektrische Reparaturen
+type: skill
+img: systems/CoC7/assets/icons/skills/electrical_repair.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.electrical-repair
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: oEfvPMTx0cgyPlgV
+name: Elektronik
+type: skill
+img: systems/CoC7/assets/icons/skills/electronics.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.electronics
+      lang: de
+      eras:
+        modern: true
+        modernPulp: true
+      priority: 0
+---
+_id: t7uiYybrk8dHFdjp
+name: Königliche Führung
+type: skill
+img: systems/CoC7/assets/icons/skills/laurel_crown.svg
+system:
+  description:
+    value: <p>See the Cthulhu Invictus</p>
+  base: 25
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.empire
+      lang: de
+      eras:
+        invictus: true
+      priority: 0
+---
+_id: ld78TITwKNFPpanQ
+name: Überreden
+type: skill
+img: systems/CoC7/assets/icons/skills/fast_talk.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fast-talk
+      lang: de
+      priority: 0
+---
+_id: 4y7D44TpkHVKxA7s
+name: Nahkampf (variabel)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_brawl.svg
+system:
+  description:
+    value: <p>Use in occupations / archetypes to prompt to select one Fighting skill</p>
+  base: 0
+  properties:
+    fighting: true
+    combat: true
+    special: true
+    picknameonly: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-any
+      lang: de
+      priority: 0
+---
+_id: T8fSLCwSD8C0iK8t
+name: Nahkampf (Axt)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_axe.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 15
+  properties:
+    fighting: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-axe
+      lang: de
+      priority: 0
+---
+_id: vS8bsPWFlwgOecoB
+name: Nahkampf (Handgemenge)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_brawl.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 25
+  properties:
+    fighting: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-brawl
+      lang: de
+      priority: 0
+---
+_id: Ed8OShyl7D834Ihk
+name: Nahkampf (Kettensäge)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_chainsaw.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    fighting: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-chainsaw
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: OcnZzOYWaP4VsjXS
+name: Nahkampf (Flegelwaffe)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_flail.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    fighting: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-flail
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: TPOu48DT4QIrqE68
+name: Nahkampf (Garotte)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_garrote.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 15
+  properties:
+    fighting: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-garrote
+      lang: de
+      priority: 0
+---
+_id: IttOdCAGTeE6VU3F
+name: Nahkampf (Speer)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_spear.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    fighting: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-spear
+      lang: de
+      priority: 0
+---
+_id: hRPbMl2N0t6aBlyc
+name: Nahkampf (Schwert)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_sword.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    fighting: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-sword
+      lang: de
+      priority: 0
+---
+_id: sWt5Q3ZXd6NlwhXU
+name: Nahkampf (Werfen)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_throw.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    fighting: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-throw
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Pb3QI7x9xJVeXi8a
+name: Nahkampf (Peitsche)
+type: skill
+img: systems/CoC7/assets/icons/skills/fighting_whip.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    fighting: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.fighting-whip
+      lang: de
+      priority: 0
+---
+_id: YPiD2ubZensxjKGU
+name: Fernkampf (variabel)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_handgun.svg
+system:
+  description:
+    value: <p>Use in occupations / archetypes to prompt to select one Firearms skill</p>
+  base: 0
+  properties:
+    firearm: true
+    combat: true
+    special: true
+    picknameonly: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.firearms-any
+      lang: de
+      priority: 0
+---
+_id: qET2wCGGdy3z18Gc
+name: Fernkampf (Artillerie)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_artillery.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    firearm: true
+    combat: true
+    special: true
+    rarity: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.firearms-artillery
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: VwGWZ2LBOwtMaw08
+name: Fernkampf (Bogen)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_bow.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 15
+  properties:
+    firearm: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.firearms-bow
+      lang: de
+      priority: 0
+---
+_id: 35dvJDsrY8JipXRU
+name: Fernkampf (Flammenwerfer)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_flamethrower.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    firearm: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.firearms-flamethrower
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: KmDGtn7ukUFVb265
+name: Fernkampf (Faustfeuerwaffe)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_handgun.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    firearm: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.firearms-handgun
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+      priority: 0
+---
+_id: 23vdyJDDfjyneH3I
+name: Fernkampf (Schwere Waffen)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_heavy_weapons.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    firearm: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.firearms-heavy-weapons
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: QcomAOgmOS5g3dsh
+name: Fernkampf (Maschinengewehr)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_machine_gun.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    firearm: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.firearms-machine-gun
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: m2pYjKk4Gk3FcEBL
+name: Fernkampf (Gewehr/Flinte)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_rifle_shotgun.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 25
+  properties:
+    firearm: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.firearms-rifle-shotgun
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+      priority: 0
+---
+_id: gRUXG91zIJXOLye1
+name: Fernkampf (Maschinenpistole)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_submachine_gun.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 15
+  properties:
+    firearm: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.firearms-submachine-gun
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: nZ8rdL4PLb7A7f5B
+name: Erste Hilfe
+type: skill
+img: systems/CoC7/assets/icons/skills/first_aid.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 30
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.first-aid
+      lang: de
+      priority: 0
+---
+_id: SflwB1bbjaQebiPQ
+name: Glücksspiel
+type: skill
+img: systems/CoC7/assets/icons/skills/poker-hand.svg
+system:
+  description:
+    value: <p>See the Down Darker Trails Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.gambling
+      lang: de
+      eras:
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+      priority: 0
+---
+_id: URo2NSSJSNdvOqXU
+name: Geschichte
+type: skill
+img: systems/CoC7/assets/icons/skills/history.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.history
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: mEblnQjptKvKCeIg
+name: Hypnose
+type: skill
+img: systems/CoC7/assets/icons/skills/hypnosis.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    rarity: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.hypnosis
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+      priority: 0
+---
+_id: hDr4eUbS398oniTa
+name: Einschüchtern
+type: skill
+img: systems/CoC7/assets/icons/skills/intimidate.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 15
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.intimidate
+      lang: de
+      priority: 0
+---
+_id: c5utlFbDM7J8TA8b
+name: Springen
+type: skill
+img: systems/CoC7/assets/icons/skills/jump.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.jump
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Yu3Xk8kZBlz0G82y
+name: Sprache (variabel)
+type: skill
+img: systems/CoC7/assets/icons/skills/language.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    requiresname: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.language-any
+      lang: de
+      priority: 0
+---
+_id: rhJ1Q9OB3uTUZmjD
+name: Sprache (Muttersprache)
+type: skill
+img: systems/CoC7/assets/icons/skills/language.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: '@EDU'
+  properties:
+    push: true
+    special: true
+    requiresname: true
+    keepbasevalue: true
+    onlyone: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.language-own
+      lang: de
+      priority: 0
+---
+_id: 64hnBZNC8FM7oTkg
+name: Rechtswesen
+type: skill
+img: systems/CoC7/assets/icons/skills/law.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.law
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: BcWHh8EhmyKj7bNk
+name: Bibliotheksnutzung
+type: skill
+img: systems/CoC7/assets/icons/skills/library_use.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.library-use
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: MoAB0NRNlpEc2qWr
+name: Horchen
+type: skill
+img: systems/CoC7/assets/icons/skills/listen.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.listen
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: MRbFH52Zh9TzhLBh
+name: Schließtechnik
+type: skill
+img: systems/CoC7/assets/icons/skills/locksmith.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.locksmith
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: rCJKGay6D0ucqgeg
+name: Überlieferungen (variabel)
+type: skill
+img: systems/CoC7/assets/icons/skills/classical_knowledge.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    requiresname: true
+    rarity: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.lore-any
+      lang: de
+      eras:
+        standard: true
+        modern: true
+      priority: 0
+---
+_id: 0qCTuRFUCACSEsWj
+name: Mechanische Reparaturen
+type: skill
+img: systems/CoC7/assets/icons/skills/mechanical_repair.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.mechanical-repair
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+      priority: 0
+---
+_id: Xmg7oAy70DKpv4kq
+name: Medizin
+type: skill
+img: systems/CoC7/assets/icons/skills/medicine.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.medicine
+      lang: de
+      priority: 0
+---
+_id: jTcu6Ni2ek7Yz5q3
+name: Naturkunde
+type: skill
+img: systems/CoC7/assets/icons/skills/natural_world.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.natural-world
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+      priority: 0
+---
+_id: 1c3fdvpQtvZf5YXK
+name: Orientierung
+type: skill
+img: systems/CoC7/assets/icons/skills/navigate.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.navigate
+      lang: de
+      priority: 0
+---
+_id: 6pSfZVS68jSHxa5T
+name: Okkultismus
+type: skill
+img: systems/CoC7/assets/icons/skills/occult.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.occult
+      lang: de
+      priority: 0
+---
+_id: cuExWy1130KUwuWz
+name: Schweres Gerät
+type: skill
+img: systems/CoC7/assets/icons/skills/operate_heavy_machinery.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.operate-heavy-machinery
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+      priority: 0
+---
+_id: uMzSNURmZqjxr7mU
+name: Überzeugen
+type: skill
+img: systems/CoC7/assets/icons/skills/persuade.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.persuade
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: uQsVn8K6XRXQmtaI
+name: Steuern (variabel)
+type: skill
+img: systems/CoC7/assets/icons/skills/pilot_any.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    requiresname: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.pilot-any
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+      priority: 0
+---
+_id: rXBU2GofiO2qOsGv
+name: Psychoanalyse
+type: skill
+img: systems/CoC7/assets/icons/skills/psychoanalysis.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.psychoanalysis
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: MFR4eR79niGaLfph
+name: Psychologie
+type: skill
+img: systems/CoC7/assets/icons/skills/psychology.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.psychology
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: SL2OorS0Xx6ty02A
+name: Lippenlesen
+type: skill
+img: systems/CoC7/assets/icons/skills/read_lips.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    rarity: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.read-lips
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: o7TdzbuSP7ticONf
+name: Reiten
+type: skill
+img: systems/CoC7/assets/icons/skills/ride.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.ride
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+      priority: 0
+---
+_id: EMA6uEtQBgJtBcPl
+name: Lasso werfen
+type: skill
+img: systems/CoC7/assets/icons/skills/lasso.svg
+system:
+  description:
+    value: <p>See the Down Darker Trails Rulebook</p>
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.rope-use
+      lang: de
+      eras:
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+      priority: 0
+---
+_id: KvZuYcg3AmVrwKi2
+name: Naturwissenschaft (variabel)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_any.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    requiresname: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-any
+      lang: de
+      priority: 0
+---
+_id: hhvqA2BOljk1FHVg
+name: Naturwissenschaft (Astronomie)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_astronomy.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    push: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-astronomy
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: IBSDR6U4dE1uejVp
+name: Naturwissenschaft (Biologie)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_biology.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-biology
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: ShPoibiLsd07AtZv
+name: Naturwissenschaft (Botanik)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_botany.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-botany
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: 8twBT7nbyh5dEp3J
+name: Naturwissenschaft (Chemie)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_chemistry.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-chemistry
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: UASTWOvgCYi8G1QQ
+name: Naturwissenschaft (Kryptographie)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_cryptography.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-cryptography
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: 9zy7PLmTLXknFce4
+name: Naturwissenschaft (Ingenieurswissenschaft)
+type: skill
+img: systems/CoC7/assets/icons/skills/spanner.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-engineering
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: Nw5tSvi2Knxlqmg1
+name: Naturwissenschaft (Forensik)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_forensics.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-forensics
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: QwaL3UC3Gvjd3hmF
+name: Naturwissenschaft (Geologie)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_geology.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-geology
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: TwYYqLHe1PXnOCDF
+name: Naturwissenschaft (Mathematik)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_mathematics.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-mathematics
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: w7hWVU14syjweIH2
+name: Naturwissenschaft (Meteorologie)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_meteorology.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-meteorology
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: V9ulAwDyLVqqQ0su
+name: Naturwissenschaft (Pharmazie)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_pharmacy.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-pharmacy
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: Dh6sHWep0qKQmi3I
+name: Naturwissenschaft (Physik)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_physics.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-physics
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: 0rlp7EuZDzQGjIYf
+name: Naturwissenschaft (Zoologie)
+type: skill
+img: systems/CoC7/assets/icons/skills/science_zoology.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 1
+  properties:
+    special: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.science-zoology
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+      priority: 0
+---
+_id: KKFNX5M4LtEtiuxs
+name: Kaschieren
+type: skill
+img: systems/CoC7/assets/icons/skills/sleight_of_hand.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.sleight-of-hand
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: nHaWNwtW3Lg0sqYJ
+name: Verborgenes erkennen
+type: skill
+img: systems/CoC7/assets/icons/skills/spot_hidden.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 25
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.spot-hidden
+      lang: de
+      priority: 0
+---
+_id: DcV524K0jNfjDEZC
+name: Verborgen bleiben
+type: skill
+img: systems/CoC7/assets/icons/skills/stealth.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.stealth
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        darkAges: true
+        darkAgesPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: X99v5MtRlfTNjL3B
+name: Überlebenskunst (variabel)
+type: skill
+img: systems/CoC7/assets/icons/skills/survival_any.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    special: true
+    requiresname: true
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.survival-any
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: 1zSIeY0eat2AxQok
+name: Schwimmen
+type: skill
+img: systems/CoC7/assets/icons/skills/swim.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.swim
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: AcUIbZFhfoXqQP2m
+name: Spurensuche
+type: skill
+img: systems/CoC7/assets/icons/skills/track.svg
+system:
+  description:
+    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.track
+      lang: de
+      priority: 0
+---
+_id: HzOGu2yLcL9obry3
+name: Fallen stellen
+type: skill
+img: systems/CoC7/assets/icons/skills/wolf-trap.svg
+system:
+  description:
+    value: <p>See the Down Darker Trails Rulebook</p>
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.trap
+      lang: de
+      eras:
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+      priority: 0
+---

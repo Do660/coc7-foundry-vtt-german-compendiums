@@ -1,0 +1,26 @@
+{
+  "name": "coc7-foundry-vtt-german-compendiums",
+  "version": "0.1.0",
+  "scripts": {
+    "build-compendiums": "node shared/build-compendiums.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Do660/coc7-foundry-vtt-german-compendiums.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Do660/coc7-foundry-vtt-german-compendiums/issues"
+  },
+  "homepage": "https://github.com/Do660/coc7-foundry-vtt-german-compendiums#readme",
+  "type": "module",
+  "devDependencies": {
+    "classic-level": "^1.4.1",
+    "js-yaml": "^4.1.0",
+    "jsonfile": "^6.1.0"
+  },
+  "standard": {
+    "ignore": [
+      "/lib/socketlib/"
+    ]
+  }
+}
