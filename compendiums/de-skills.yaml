@@ -4,7 +4,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/accounting.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -32,7 +32,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/animal_handling.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -56,7 +56,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/anthropology.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     push: true
@@ -82,7 +82,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/appraise.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -99,7 +99,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/archaeology.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     push: true
@@ -124,7 +124,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/art_craft_acting.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     special: true
@@ -150,7 +150,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/art_craft_any.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     special: true
@@ -169,7 +169,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/art_craft_fine_art.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     special: true
@@ -195,7 +195,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/art_craft_forgery.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     special: true
@@ -221,7 +221,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/art_craft_photography.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     special: true
@@ -245,7 +245,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/charm.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 15
   properties:
     push: true
@@ -281,7 +281,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/climb.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     push: true
@@ -311,7 +311,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/computer_use.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -331,7 +331,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/credit_rating.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 0
   properties:
     noxpgain: true
@@ -358,7 +358,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/cthulhu_mythos.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 0
   properties:
     noadjustments: true
@@ -376,7 +376,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/demolitions.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     rarity: true
@@ -401,7 +401,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/disguise.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -431,7 +431,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/diving_helmet.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     push: true
@@ -454,7 +454,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/dodge.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1/2*@DEX
 flags:
   CoC7:
@@ -482,7 +482,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/drive_auto.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     push: true
@@ -566,7 +566,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/electrical_repair.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     push: true
@@ -588,7 +588,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/electronics.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     push: true
@@ -627,7 +627,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fast_talk.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -664,7 +664,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fighting_axe.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 15
   properties:
     fighting: true
@@ -683,7 +683,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fighting_brawl.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 25
   properties:
     fighting: true
@@ -702,7 +702,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fighting_chainsaw.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     fighting: true
@@ -726,7 +726,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fighting_flail.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     fighting: true
@@ -750,7 +750,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fighting_garrote.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 15
   properties:
     fighting: true
@@ -769,7 +769,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fighting_spear.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     fighting: true
@@ -788,7 +788,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fighting_sword.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     fighting: true
@@ -807,7 +807,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fighting_throw.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     fighting: true
@@ -837,7 +837,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/fighting_whip.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     fighting: true
@@ -876,7 +876,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/firearms_artillery.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     firearm: true
@@ -902,7 +902,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/firearms_bow.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 15
   properties:
     firearm: true
@@ -921,7 +921,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/firearms_flamethrower.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     firearm: true
@@ -945,7 +945,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/firearms_handgun.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     firearm: true
@@ -972,7 +972,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/firearms_heavy_weapons.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     firearm: true
@@ -996,7 +996,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/firearms_machine_gun.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     firearm: true
@@ -1020,7 +1020,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/firearms_rifle_shotgun.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 25
   properties:
     firearm: true
@@ -1047,7 +1047,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/firearms_submachine_gun.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 15
   properties:
     firearm: true
@@ -1071,7 +1071,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/first_aid.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 30
   properties:
     push: true
@@ -1108,7 +1108,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/history.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -1136,7 +1136,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/hypnosis.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     rarity: true
@@ -1161,7 +1161,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/intimidate.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 15
   properties:
     push: true
@@ -1178,7 +1178,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/jump.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     push: true
@@ -1206,7 +1206,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/language.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1225,7 +1225,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/language.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: '@EDU'
   properties:
     push: true
@@ -1246,7 +1246,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/law.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -1274,7 +1274,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/library_use.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     push: true
@@ -1302,7 +1302,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/listen.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     push: true
@@ -1330,7 +1330,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/locksmith.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     push: true
@@ -1358,7 +1358,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/classical_knowledge.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1381,7 +1381,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/mechanical_repair.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     push: true
@@ -1408,7 +1408,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/medicine.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     push: true
@@ -1425,7 +1425,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/natural_world.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     push: true
@@ -1450,7 +1450,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/navigate.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     push: true
@@ -1467,7 +1467,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/occult.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -1484,7 +1484,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/operate_heavy_machinery.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     push: true
@@ -1509,7 +1509,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/persuade.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     push: true
@@ -1537,7 +1537,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/pilot_any.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1564,7 +1564,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/psychoanalysis.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     push: true
@@ -1586,7 +1586,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/psychology.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     push: true
@@ -1614,7 +1614,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/read_lips.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     rarity: true
@@ -1637,7 +1637,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/ride.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 5
   properties:
     push: true
@@ -1682,7 +1682,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_any.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1701,7 +1701,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_astronomy.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     push: true
@@ -1724,7 +1724,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_biology.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1747,7 +1747,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_botany.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1770,7 +1770,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_chemistry.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1793,7 +1793,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_cryptography.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1816,7 +1816,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/spanner.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1839,7 +1839,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_forensics.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1862,7 +1862,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_geology.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1885,7 +1885,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_mathematics.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     special: true
@@ -1908,7 +1908,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_meteorology.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1931,7 +1931,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_pharmacy.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1954,7 +1954,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_physics.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -1977,7 +1977,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/science_zoology.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 1
   properties:
     special: true
@@ -2000,7 +2000,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/sleight_of_hand.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     push: true
@@ -2028,7 +2028,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/spot_hidden.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 25
   properties:
     push: true
@@ -2045,7 +2045,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/stealth.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     push: true
@@ -2075,7 +2075,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/survival_any.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     special: true
@@ -2105,7 +2105,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/swim.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 20
   properties:
     push: true
@@ -2133,7 +2133,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/track.svg
 system:
   description:
-    value: <p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>
+    value: <p>Siehe das Call of Cthulhu - Regelwerk der 7. Edition</p>
   base: 10
   properties:
     push: true

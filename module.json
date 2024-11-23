@@ -2,7 +2,7 @@
   "id": "coc7-foundry-vtt-german-compendiums",
   "title": "Kompendien: Deutsch (Call of Cthulhu 7th edition)",
   "description": "Inoffizielle deutsche Kompendien für Call of Cthulhu - Unofficial german compendiums for Call of Cthulhu",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -37,7 +37,8 @@
       "packs": [
         "fertigkeiten",
         "waffen",
-        "charaktere"
+        "charaktere",
+        "phobienundmanien"
       ]
     }
   ],
@@ -69,6 +70,28 @@
       "label": "Charaktere",
       "path": "packs/de-characters",
       "type": "Item",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "phobienundmanien",
+      "label": "Phobien und Manien",
+      "path": "packs/de-phobias-and-manias",
+      "type": "Item",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "wuerfeltabellen",
+      "label": "Würfeltabellen",
+      "path": "packs/de-roll-tables",
+      "type": "RollTable",
       "system": "CoC7",
       "ownership": {
         "PLAYER": "OBSERVER",

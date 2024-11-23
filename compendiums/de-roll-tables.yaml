@@ -1,0 +1,223 @@
+name: Anfälle von Wahnsinn (Echtzeit)
+formula: 1d10
+results:
+  - type: text
+    text: '<strong>Amnesie</strong>: Der Ermittler hat keine Erinnerung an Ereignisse, die seit dem letzten Aufenthalt an einem sicheren Ort stattgefunden haben. Es scheint ihm, als hätte er gerade noch gefrühstückt und im nächsten Moment steht er einem Monster gegenüber. Dies dauert [[/r 1D10]] Runden.'
+  - type: text
+    text: '<strong>Psychosomatische Behinderung</strong>: Der Ermittler leidet an psychosomatischer Blindheit, Taubheit oder dem Verlust der Nutzung eines Gliedes für [[/r 1D10]] Runden.'
+  - type: text
+    text: '<strong>Gewalt</strong>: Ein roter Nebel des Zorns senkt sich über den betroffenen Ermittler und er explodiert in einem Ausbruch unkontrollierter Gewalt und Zerstörung, der sich gegen seine Umgebung, Verbündete und Feinde gleichermaßen richtet, für [[/r 1D10]] Runden.'
+  - type: text
+    text: '<strong>Paranoia</strong>: Der Ermittler leidet für [[/r 1D10]] Runden an schwerer Paranoia. Jeder ist gegen ihn! Niemand ist vertrauenswürdig! Er wird ausspioniert; jemand hat ihn verraten; was er sieht, ist ein Trick.'
+  - type: text
+    text: '<strong>Bedeutende Person</strong>: Überprüfe den Eintrag zur bedeutenden Person in der Hintergrundgeschichte des Ermittlers. Der Ermittler verwechselt eine andere Person in der Szene mit seiner bedeutenden Person. Berücksichtige die Natur der Beziehung; der Ermittler handelt entsprechend. Dies dauert [[/r 1D10]] Runden.'
+  - type: text
+    text: '<strong>Ohnmacht</strong>: Der Ermittler fällt in Ohnmacht und erholt sich nach [[/r 1D10]] Runden.'
+  - type: text
+    text: '<strong>In Panik fliehen</strong>: Der Ermittler ist gezwungen, sich so weit wie möglich zu entfernen, egal mit welchem Mittel, selbst wenn es bedeutet, das einzige Fahrzeug zu nehmen und alle anderen zurückzulassen. Er flieht für [[/r 1D10]] Runden.'
+  - type: text
+    text: '<strong>Physische Hysterie oder emotionaler Ausbruch</strong>: Der Ermittler ist für [[/r 1D10]] Runden handlungsunfähig, lacht, weint, schreit usw.'
+  - type: text
+    text: '<strong>Phobie</strong>: Der Ermittler entwickelt eine neue Phobie, wie Klaustrophobie (Angst vor engen Räumen), Dämonophobie (Angst vor Geistern oder Dämonen) oder Katsaridaphobie (Angst vor Kakerlaken). Selbst wenn die Quelle der Phobie nicht vorhanden ist, stellt sich der Ermittler vor, dass sie da ist, für die nächsten [[/r 1D10]] Runden, und alle Aktionen erleiden einen Strafwürfel, solange der Anfall anhält.'
+  - type: text
+    text: '<strong>Manie</strong>: Der Ermittler entwickelt eine neue Manie, wie Ablutomanie (Zwang zum Waschen), Pseudomanie (irrationaler Zwang zum Lügen) oder Helminthomanie (übermäßige Vorliebe für Würmer). Der Ermittler versucht, dieser neuen Manie für die nächsten [[/r 1D10]] Runden nachzugehen, und alle Aktionen erleiden einen Strafwürfel, solange der Anfall anhält.'
+flags:
+  CoC7:
+    cocidFlag:
+      id: rt..bouts-of-madness-table-realtime
+      lang: de
+      priority: 0
+---
+_id: '6daRognwiyG5eoQd'
+name: 'Tabelle IX: Beispielphobien'
+img: 'icons/svg/d20-grey.svg'
+description: 'Siehe Keeper-Regelbuch für Details'
+results:
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Acrophobie'
+    documentId: 'p0t15enMtk3uTAlj'
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Arachnophobie'
+    documentId: 'qRnd6M1Tshzw76Ny'
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Bibliophobie'
+    documentId: '4AeOJTb8YE9wbaCe'
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Eisoptrophobie'
+    documentId: 'DciWR1txuAq4kWCy'
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Hemaphobie'
+    documentId: 'hSeCmtgrYGvZ32QS'
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Necrophobie'
+    documentId: 'N8GbNhQMLUx0dINh'
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Odontophobie'
+    documentId: 'zH0DG90l9NgTq0hr'
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Pyrophobie'
+    documentId: '5YXHhTzaSarN72DR'
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Telephonophobie'
+    documentId: 'z2HNXPNGHdr6IKzt'
+  - type: pack
+    img: icons/svg/aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Xenophobie'
+    documentId: '0ITh5OlkMYtSLi9S'
+flags:
+  CoC7:
+    cocidFlag:
+      id: rt..system-sample-phobias
+      lang: de
+      priority: 0
+---
+_id: 'NNX6jAG2DBkw9red'
+name: 'Tabelle VII: Anfälle von Wahnsinn - Echtzeit'
+img: 'icons/svg/d20-grey.svg'
+description: 'Siehe Keeper-Regelbuch für Details'
+results:
+  - type: pack
+    documentCollection: 'CoC7.en-wiki-roll-tables'
+    range:
+      - 1
+      - 10
+    text: 'Anfälle von Wahnsinn (Echtzeit)'
+    documentId: 'DGd9QwhMguct5kJr'
+    img: 'icons/svg/d20-grey.svg'
+  - type: pack
+    documentCollection: 'CoC7.sanity-tables-examples'
+    range:
+      - 11
+      - 11
+    text: 'Tabelle IX: Beispielphobien'
+    documentId: '6daRognwiyG5eoQd'
+    img: 'icons/svg/d20-grey.svg'
+  - type: pack
+    documentCollection: 'CoC7.sanity-tables-examples'
+    range:
+      - 12
+      - 12
+    text: 'Tabelle X: Beispielmanien'
+    documentId: 'mWs2LZoSvSBqlqhW'
+    img: 'icons/svg/d20-grey.svg'
+flags:
+  CoC7:
+    cocidFlag:
+      id: rt..system-bouts-of-madness-real-time
+      lang: de
+      priority: 0
+---
+_id: 'ZyCIR3PbyYaIE8W2'
+name: 'Tabelle VIII: Anfälle von Wahnsinn - Zusammenfassung'
+img: 'icons/svg/d20-grey.svg'
+description: 'Siehe Keeper-Regelbuch für Details'
+results:
+  - type: text
+    img: icons/svg/d20-black.svg
+    text: 'Siehe Anfälle von Wahnsinn Tabelle für [[/r 1D10]] Stunden'
+    range:
+      - 1
+      - 8
+  - type: pack
+    documentCollection: 'CoC7.sanity-tables-examples'
+    range:
+      - 9
+      - 9
+    text: 'Tabelle IX: Beispielphobien'
+    documentId: '6daRognwiyG5eoQd'
+    img: 'icons/svg/d20-grey.svg'
+  - type: pack
+    documentCollection: 'CoC7.sanity-tables-examples'
+    range:
+      - 10
+      - 10
+    text: 'Tabelle X: Beispielmanien'
+    documentId: 'mWs2LZoSvSBqlqhW'
+    img: 'icons/svg/d20-grey.svg'
+flags:
+  CoC7:
+    cocidFlag:
+      id: rt..system-bouts-of-madness-real-time
+      lang: de
+      priority: 0
+---
+_id: 'mWs2LZoSvSBqlqhW'
+name: 'Tabelle X: Beispielmanien'
+img: 'icons/svg/d20-grey.svg'
+description: 'Siehe Keeper-Regelbuch für Details'
+results:
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Agathomanie'
+    documentId: 'RSBgVRZFUDDCNhXo'
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Algomanie'
+    documentId: 'EaKLI16AeflyGtUy'
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Amenomanie'
+    documentId: 'bewOYRIgOXcFVT48'
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Bibliokleptomanie'
+    documentId: 'lVj5VQLKa3qNMO1N'
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Dikemanie'
+    documentId: 'tfU5EJwc4jxU67Wp'
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Geliomanie'
+    documentId: 'uXaBJzAGkgIiKbdE'
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Klazomanie'
+    documentId: 'QrruiWO4YPYO4ND5'
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Kleptomanie'
+    documentId: 'yVUmHYY5eCaxutZt'
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Nosomanie'
+    documentId: 'y6ANMyrvi0eVH44f'
+  - type: pack
+    img: icons/svg/ice-aura.svg
+    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    text: 'Pseudomanie'
+    documentId: 'mq9OFQH0asOgJ9YK'
+flags:
+  CoC7:
+    cocidFlag:
+      id: rt..system-sample-manias
+      lang: de
+      priority: 0
