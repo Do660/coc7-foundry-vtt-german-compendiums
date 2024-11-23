@@ -35,52 +35,52 @@ description: 'Siehe Keeper-Regelbuch für Details'
 results:
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Acrophobie'
     documentId: 'p0t15enMtk3uTAlj'
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Arachnophobie'
     documentId: 'qRnd6M1Tshzw76Ny'
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Bibliophobie'
     documentId: '4AeOJTb8YE9wbaCe'
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Eisoptrophobie'
     documentId: 'DciWR1txuAq4kWCy'
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Hemaphobie'
     documentId: 'hSeCmtgrYGvZ32QS'
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Necrophobie'
     documentId: 'N8GbNhQMLUx0dINh'
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Odontophobie'
     documentId: 'zH0DG90l9NgTq0hr'
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Pyrophobie'
     documentId: '5YXHhTzaSarN72DR'
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Telephonophobie'
     documentId: 'z2HNXPNGHdr6IKzt'
   - type: pack
     img: icons/svg/aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Xenophobie'
     documentId: '0ITh5OlkMYtSLi9S'
 flags:
@@ -96,7 +96,7 @@ img: 'icons/svg/d20-grey.svg'
 description: 'Siehe Keeper-Regelbuch für Details'
 results:
   - type: pack
-    documentCollection: 'CoC7.en-wiki-roll-tables'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.wuerfeltabellen'
     range:
       - 1
       - 10
@@ -104,7 +104,7 @@ results:
     documentId: 'DGd9QwhMguct5kJr'
     img: 'icons/svg/d20-grey.svg'
   - type: pack
-    documentCollection: 'CoC7.sanity-tables-examples'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.wuerfeltabellen'
     range:
       - 11
       - 11
@@ -112,7 +112,7 @@ results:
     documentId: '6daRognwiyG5eoQd'
     img: 'icons/svg/d20-grey.svg'
   - type: pack
-    documentCollection: 'CoC7.sanity-tables-examples'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.wuerfeltabellen'
     range:
       - 12
       - 12
@@ -138,7 +138,7 @@ results:
       - 1
       - 8
   - type: pack
-    documentCollection: 'CoC7.sanity-tables-examples'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.wuerfeltabellen'
     range:
       - 9
       - 9
@@ -146,7 +146,7 @@ results:
     documentId: '6daRognwiyG5eoQd'
     img: 'icons/svg/d20-grey.svg'
   - type: pack
-    documentCollection: 'CoC7.sanity-tables-examples'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.wuerfeltabellen'
     range:
       - 10
       - 10
@@ -167,52 +167,52 @@ description: 'Siehe Keeper-Regelbuch für Details'
 results:
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Agathomanie'
     documentId: 'RSBgVRZFUDDCNhXo'
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Algomanie'
     documentId: 'EaKLI16AeflyGtUy'
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Amenomanie'
     documentId: 'bewOYRIgOXcFVT48'
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Bibliokleptomanie'
     documentId: 'lVj5VQLKa3qNMO1N'
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Dikemanie'
     documentId: 'tfU5EJwc4jxU67Wp'
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Geliomanie'
     documentId: 'uXaBJzAGkgIiKbdE'
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Klazomanie'
     documentId: 'QrruiWO4YPYO4ND5'
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Kleptomanie'
     documentId: 'yVUmHYY5eCaxutZt'
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Nosomanie'
     documentId: 'y6ANMyrvi0eVH44f'
   - type: pack
     img: icons/svg/ice-aura.svg
-    documentCollection: 'CoC7.en-wiki-phobias-and-manias'
+    documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Pseudomanie'
     documentId: 'mq9OFQH0asOgJ9YK'
 flags:
