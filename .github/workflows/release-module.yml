@@ -4,7 +4,7 @@ name: Release workflow
 
 on:
   release:
-    types: [created]
+    types: [published]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -29,45 +29,22 @@ jobs:
       - name: Zip repository
         run: zip -r module.zip .
 
-      - name: Upload artifact (ZIP)
-        uses: actions/upload-artifact@v3
+      - name: Upload Release Asset (ZIP)
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: module.zip
-          path: ./module.zip
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./module.zip
+          asset_name: module.zip
+          asset_content_type: application/zip
 
-      - name: Upload artifact (JSON)
-        uses: actions/upload-artifact@v3
+      - name: Upload Release Asset (JSON)
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          name: module.json
-          path: ./module.json
-
-#      - name: Create GitHub Release
-#        id: create_release
-#        uses: actions/create-release@v1
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#        with:
-#          tag_name: ${{ github.ref }}
-#          release_name: Release ${{ github.ref }}
-#          draft: false
-#          prerelease: false
-#
-#      - name: Upload Release Asset (ZIP)
-#        uses: actions/upload-release-asset@v1
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#        with:
-#          upload_url: ${{ steps.create_release.outputs.upload_url }}
-#          asset_path: ./module.zip
-#          asset_name: module.zip
-#          asset_content_type: application/zip
-#
-#      - name: Upload Release Asset (JSON)
-#        uses: actions/upload-release-asset@v1
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#        with:
-#          upload_url: ${{ steps.create_release.outputs.upload_url }}
-#          asset_path: ./module.json
-#          asset_name: module.json
-#          asset_content_type: application/json
+          upload_url: ${{ github.event.release.upload_url }}
+          asset_path: ./module.json
+          asset_name: module.json
+          asset_content_type: application/json
