@@ -1,0 +1,70 @@
+﻿_id: CcH7CdXGtGTjMSCg
+name: 1920er Core Character
+type: setup
+img: icons/svg/item-bag.svg
+system:
+  description:
+    value: <p>Core-Character für das klassische 1920er Setup</p>
+  source: ''
+  items:
+    - i.skill.accounting
+    - i.skill.anthropology
+    - i.skill.appraise
+    - i.skill.archaeology
+    - i.skill.art-craft-any
+    - i.skill.charm
+    - i.skill.climb
+    - i.skill.credit-rating
+    - i.skill.cthulhu-mythos
+    - i.skill.disguise
+    - i.skill.dodge
+    - i.skill.drive-auto
+    - i.skill.electrical-repair
+    - i.skill.fast-talk
+    - i.skill.fighting-brawl
+    - i.skill.fighting-throw
+    - i.skill.firearms-handgun
+    - i.skill.firearms-rifle-shotgun
+    - i.skill.first-aid
+    - i.skill.history
+    - i.skill.intimidate
+    - i.skill.jump
+    - i.skill.language-own
+    - i.skill.law
+    - i.skill.library-use
+    - i.skill.listen
+    - i.skill.locksmith
+    - i.skill.mechanical-repair
+    - i.skill.medicine
+    - i.skill.natural-world
+    - i.skill.navigate
+    - i.skill.occult
+    - i.skill.operate-heavy-machinery
+    - i.skill.persuade
+    - i.skill.pilot-any
+    - i.skill.psychoanalysis
+    - i.skill.psychology
+    - i.skill.ride
+    - i.skill.science-any
+    - i.skill.sleight-of-hand
+    - i.skill.spot-hidden
+    - i.skill.stealth
+    - i.skill.survival-any
+    - i.skill.swim
+    - i.skill.track
+    - i.weapon.brawl
+  bioSections:
+    - Personal Description
+    - Ideology/Beliefs
+    - Significant People
+    - Meaningful Locations
+    - Treasured Possessions
+    - Traits
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.setup.standard
+      lang: de
+      eras:
+        standard: true
+      priority: 0

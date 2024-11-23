@@ -1,0 +1,1129 @@
+_id: 2r5xD2GY15lSTtEm
+name: Nahkampfwaffen
+type: folder
+color: '#75844c'
+---
+_id: 3zZuq7B7eNxU2QMC
+name: Faustfeuerwaffen
+type: folder
+color: '#75844c'
+---
+_id: OJkZsHH3vZYEUeQC
+name: Gewehre
+type: folder
+color: '#75844c'
+---
+_id: w2vkKXFHcaQVeB7H
+name: Shotguns
+type: folder
+color: '#75844c'
+---
+_id: JAeTufherjBnBPgA
+name: Maschinenpistolen
+type: folder
+color: '#75844c'
+---
+_id: CMWcRDEeZED0VpyQ
+name: Maschinengewehre
+type: folder
+color: '#75844c'
+---
+name: Bogen und Pfeile
+type: weapon
+img: icons/weapons/bows/shortbow-white.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-bow'
+  range:
+    normal:
+      value: 30
+      damage: '1D6'
+  bullets: 1
+  properties:
+    rngd: true
+    ahdb: true
+  malfunction: 97
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.bow
+      lang: en
+      priority: 0
+---
+name: Schlagring
+type: weapon
+img: icons/weapons/fist/fist-knuckles-spiked-stone.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D3+1'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.brass-knuckles
+      lang: en
+      priority: 0
+---
+name: Bullenpeitsche
+type: weapon
+img: icons/weapons/misc/whip-red-yellow.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-whip'
+  range:
+    normal:
+      value: 3
+      damage: '1D3'
+  properties:
+    rngd: true
+    ahdb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.bullwhip
+      lang: en
+      priority: 0
+---
+name: Fackel (brennend)
+type: weapon
+img: icons/sundries/lights/torch-brown-lit.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D6'
+  properties:
+    melee: true
+    burn: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.burning-torch
+      lang: en
+      priority: 0
+---
+name: Totschläger
+type: weapon
+img: icons/weapons/clubs/club-baton-blue.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D8'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.blackjack
+      lang: en
+      priority: 0
+---
+name: Knüppel, groß
+type: weapon
+img: icons/weapons/clubs/club-baton-blue.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D8'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.club-large
+      lang: en
+      priority: 0
+---
+name: Knüppel, klein
+type: weapon
+img: icons/weapons/clubs/club-baton-blue.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D6'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.club-small
+      lang: en
+      priority: 0
+---
+name: Armbrust
+type: weapon
+img: icons/weapons/crossbows/crossbow-white.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-bow'
+  range:
+    normal:
+      value: 50
+      damage: '1D8+2'
+  usesPerRound:
+    normal: 0.5
+  bullets: 1
+  properties:
+    rngd: true
+    ahdb: true
+  malfunction: 96
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.crossbow
+      lang: en
+      priority: 0
+---
+name: Garotte (Würgeschlinge)
+type: weapon
+img: icons/equipment/neck/choker-chain-thin-gold.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-garrote'
+  range:
+    normal:
+      damage: '1D6'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.garrote
+      lang: en
+      priority: 0
+---
+name: Beil/Sichel
+type: weapon
+img: icons/tools/hand/hatchet-steel-grey.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-axe'
+  range:
+    normal:
+      damage: '1D6+1'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.hatchet-sickle
+      lang: en
+      priority: 0
+---
+name: Messer, groß
+type: weapon
+img: icons/weapons/swords/sword-machete-white.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D8'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.knife-large
+      lang: en
+      priority: 0
+---
+name: Messer, mittel
+type: weapon
+img: icons/tools/cooking/knife-chef-steel-brown.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D4+2'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.knife-medium
+      lang: en
+      priority: 0
+---
+name: Messer, klein
+type: weapon
+img: icons/weapons/daggers/knife-green.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D4'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.knife-small
+      lang: en
+      priority: 0
+---
+name: Nunchaku
+type: weapon
+img: icons/weapons/staves/staff-mended.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-flail'
+  range:
+    normal:
+      damage: '1D8'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.nunchaku
+      lang: en
+      priority: 0
+---
+name: Stein, geworfen
+type: weapon
+img: icons/commodities/stone/boulder-grey.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-throw'
+  range:
+    normal:
+      value: '@STR/5'
+      damage: '1D4'
+  properties:
+    rngd: true
+    ahdb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.rock-thrown
+      lang: en
+      priority: 0
+---
+name: Wurfstern (Shuriken)
+type: weapon
+img: icons/weapons/thrown/shuriken-double-red.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-throw'
+  range:
+    normal:
+      value: '@STR/5'
+      damage: '1D3'
+  properties:
+    rngd: true
+    ahdb: true
+  usesPerRound:
+    normal: 2
+  malfunction: 97
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.shuriken
+      lang: en
+      priority: 0
+---
+name: Speer
+type: weapon
+img: icons/weapons/polearms/spear-flared-blue.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-spear'
+  range:
+    normal:
+      damage: '1D8+1'
+  properties:
+    melee: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.spear
+      lang: en
+      priority: 0
+---
+name: Speer, geworfen
+type: weapon
+img: icons/weapons/polearms/spear-flared-blue.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-throw'
+  range:
+    normal:
+      value: '@STR/5'
+      damage: '1D8'
+  properties:
+    rngd: true
+    ahdb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.shuriken
+      lang: en
+      priority: 0
+---
+name: .22er Automatik
+type: weapon
+img: icons/weapons/guns/gun-pistol-flintlock-metal.webp
+folder: 3zZuq7B7eNxU2QMC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-handgun'
+  range:
+    normal:
+      value: 10
+      damage: '1D6'
+  bullets: 6
+  usesPerRound:
+    normal: 1
+    max: 3
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.22-short-automatic
+      lang: en
+      priority: 0
+---
+name: .25 Derringer (1 Lauf)
+type: weapon
+img: icons/weapons/guns/gun-pistol-flintlock-metal.webp
+folder: 3zZuq7B7eNxU2QMC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-handgun'
+  range:
+    normal:
+      value: 3
+      damage: '1D6'
+  bullets: 1
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.25-derringer-1b
+      lang: en
+      priority: 0
+---
+name: .32/7.65mm Revolver
+type: weapon
+img: icons/weapons/guns/gun-pistol-flintlock-metal.webp
+folder: 3zZuq7B7eNxU2QMC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-handgun'
+  range:
+    normal:
+      value: 15
+      damage: '1D8'
+  bullets: 6
+  usesPerRound:
+    normal: 1
+    max: 3
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.32-or-7-65mm-revolver
+      lang: en
+      priority: 0
+---
+name: .32/7.65mm Automatik
+type: weapon
+img: icons/weapons/guns/gun-pistol-flintlock-metal.webp
+folder: 3zZuq7B7eNxU2QMC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-handgun'
+  range:
+    normal:
+      value: 15
+      damage: '1D8'
+  bullets: 8
+  usesPerRound:
+    normal: 1
+    max: 3
+  properties:
+    rngd: true
+  malfunction: 99
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.32-or-7-65mm-automatic
+      lang: en
+      priority: 0
+---
+name: Luger P08
+type: weapon
+img: icons/weapons/guns/gun-pistol-flintlock-metal.webp
+folder: 3zZuq7B7eNxU2QMC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-handgun'
+  range:
+    normal:
+      value: 15
+      damage: '1D10'
+  bullets: 8
+  usesPerRound:
+    normal: 1
+    max: 3
+  properties:
+    rngd: true
+  malfunction: 99
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.model-p08-luger
+      lang: en
+      priority: 0
+---
+name: .45er Revolver
+type: weapon
+img: icons/weapons/guns/gun-pistol-flintlock-metal.webp
+folder: 3zZuq7B7eNxU2QMC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-handgun'
+  range:
+    normal:
+      value: 15
+      damage: '1D10+2'
+  bullets: 6
+  usesPerRound:
+    normal: 1
+    max: 3
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.45-revolver
+      lang: en
+      priority: 0
+---
+name: .45 Automatik
+type: weapon
+img: icons/weapons/guns/gun-pistol-flintlock-metal.webp
+folder: 3zZuq7B7eNxU2QMC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-handgun'
+  range:
+    normal:
+      value: 15
+      damage: '1D10+2'
+  bullets: 7
+  usesPerRound:
+    normal: 1
+    max: 3
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.45-automatic
+      lang: en
+      priority: 0
+---
+name: .22er Repetiergewehr
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: OJkZsHH3vZYEUeQC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 30
+      damage: '1D6+1'
+  bullets: 6
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 99
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.22-bolt-action-rifle
+      lang: en
+      priority: 0
+---
+name: .30 Unterhebelrepetiergewehr
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: OJkZsHH3vZYEUeQC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 50
+      damage: '2D6'
+  bullets: 6
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 98
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.30-lever-action-carbine
+      lang: en
+      priority: 0
+---
+name: .45er Martini-Henry Mk I
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: OJkZsHH3vZYEUeQC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 80
+      damage: '1D8+1D6+3'
+  bullets: 1
+  usesPerRound:
+    normal: ⅓
+    max: ⅓
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.45-martini-henry-rifle
+      lang: en
+      priority: 0
+---
+name: Colonel Morans Luftgewehr
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: OJkZsHH3vZYEUeQC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 20
+      damage: '2D6+1'
+  bullets: 1
+  usesPerRound:
+    normal: ⅓
+    max: ⅓
+  properties:
+    rngd: true
+  malfunction: 88
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.col-moran-s-air-rifle
+      lang: en
+      priority: 0
+---
+name: .303 Lee-Enfield
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: OJkZsHH3vZYEUeQC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 110
+      damage: '2D6+4'
+  bullets: 10
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.303-lee-enfield
+      lang: en
+      priority: 0
+---
+name: .30-06er Repetiergewehr
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: OJkZsHH3vZYEUeQC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 110
+      damage: '2D6+4'
+  bullets: 5
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.30-06-bolt-action-rifle
+      lang: en
+      priority: 0
+---
+name: Elefantendoppelbüchse
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: OJkZsHH3vZYEUeQC
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 100
+      damage: '3D6+4'
+  bullets: 2
+  usesPerRound:
+    normal: 1
+    max: 2
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.elephant-gun-2b
+      lang: en
+      priority: 0
+---
+name: Doppelflinte Kal. 20
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: w2vkKXFHcaQVeB7H
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 10
+      damage: '2D6'
+    long:
+      value: 20
+      damage: '1D6'
+    extreme:
+      value: 50
+      damage: '1D3'
+  bullets: 2
+  usesPerRound:
+    normal: 1
+    max: 2
+  properties:
+    rngd: true
+    shotgun: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.20-gauge-shotgun-2b
+      lang: en
+      priority: 0
+---
+name: Doppelflinte Kal. 16
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: w2vkKXFHcaQVeB7H
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 10
+      damage: '2D6+2'
+    long:
+      value: 20
+      damage: '1D6+1'
+    extreme:
+      value: 50
+      damage: '1D4'
+  bullets: 2
+  usesPerRound:
+    normal: 1
+    max: 2
+  properties:
+    rngd: true
+    shotgun: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.16-gauge-shotgun-2b
+      lang: en
+      priority: 0
+---
+name: Doppelflinte Kal. 12
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: w2vkKXFHcaQVeB7H
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 10
+      damage: '4D6'
+    long:
+      value: 20
+      damage: '2D6'
+    extreme:
+      value: 50
+      damage: '1D6'
+  bullets: 2
+  usesPerRound:
+    normal: 1
+    max: 2
+  properties:
+    rngd: true
+    shotgun: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.12-gauge-shotgun-2b
+      lang: en
+      priority: 0
+---
+name: Selbstladeflinte Kal. 12
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: w2vkKXFHcaQVeB7H
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 10
+      damage: '4D6'
+    long:
+      value: 20
+      damage: '2D6'
+    extreme:
+      value: 50
+      damage: '1D6'
+  bullets: 5
+  usesPerRound:
+    normal: 1
+    max: 2
+  properties:
+    rngd: true
+    shotgun: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.12-gauge-shotgun-semi-auto
+      lang: en
+      priority: 0
+---
+name: Doppelflinte Kal. 12 (abgesägt)
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: w2vkKXFHcaQVeB7H
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-rifle-shotgun'
+  range:
+    normal:
+      value: 5
+      damage: '4D6'
+    long:
+      value: 10
+      damage: '1D6'
+  bullets: 2
+  usesPerRound:
+    normal: 1
+    max: 2
+  properties:
+    rngd: true
+    shotgun: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.12-gauge-shotgun-2b-sawed-off
+      lang: en
+      priority: 0
+---
+name: Bergmann MP181
+type: weapon
+img: icons/weapons/guns/gun-red.webp
+folder: JAeTufherjBnBPgA
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-submachine-gun'
+  range:
+    normal:
+      value: 20
+      damage: '1D10'
+  bullets: 20
+  usesPerRound:
+    normal: 1
+    max: 2
+  properties:
+    rngd: true
+  malfunction: 96
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.bergmann-mp181-mp2811
+      lang: en
+      priority: 0
+---
+name: Thompson (Tommy Gun)
+type: weapon
+img: icons/weapons/guns/gun-red.webp
+folder: JAeTufherjBnBPgA
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-submachine-gun'
+  range:
+    normal:
+      value: 20
+      damage: '1D10+2'
+  bullets: 20
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 96
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.thompson
+      lang: en
+      priority: 0
+---
+name: Browning M1918 BAR
+type: weapon
+img: icons/weapons/guns/gun-purple.webp
+folder: CMWcRDEeZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-machine-gun'
+  range:
+    normal:
+      value: 90
+      damage: '2D6+4'
+  bullets: 20
+  usesPerRound:
+    normal: 1
+    max: 2
+  properties:
+    rngd: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.browning-auto-rifle-m1918
+      lang: en
+      priority: 0
+---
+name: Browning M1917
+type: weapon
+img: icons/weapons/guns/gun-purple.webp
+folder: CMWcRDEeZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-machine-gun'
+  range:
+    normal:
+      value: 150
+      damage: '2D6+4'
+  bullets: 250
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 96
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.30-browning-m1917a1
+      lang: en
+      priority: 0
+---
+name: Bren
+type: weapon
+img: icons/weapons/guns/gun-purple.webp
+folder: CMWcRDEeZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-machine-gun'
+  range:
+    normal:
+      value: 110
+      damage: '2D6+4'
+  bullets: 30
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 96
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.bren-gun
+      lang: en
+      priority: 0
+---
+name: Lewis Mk I
+type: weapon
+img: icons/weapons/guns/gun-purple.webp
+folder: CMWcRDEeZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-machine-gun'
+  range:
+    normal:
+      value: 110
+      damage: '2D6+4'
+  bullets: 47
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 96
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.mark-i-lewis-gun
+      lang: en
+      priority: 0
+---
+name: Vickers Mk I
+type: weapon
+img: icons/weapons/guns/gun-purple.webp
+folder: CMWcRDEeZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-machine-gun'
+  range:
+    normal:
+      value: 110
+      damage: '2D6+4'
+  bullets: 250
+  usesPerRound:
+    normal: 1
+    max: 1
+  properties:
+    rngd: true
+  malfunction: 99
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.vickers-303
+      lang: en
+      priority: 0

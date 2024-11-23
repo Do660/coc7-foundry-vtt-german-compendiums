@@ -2,7 +2,7 @@
   "id": "coc7-foundry-vtt-german-compendiums",
   "title": "Kompendien: Deutsch (Call of Cthulhu 7th edition)",
   "description": "Inoffizielle deutsche Kompendien für Call of Cthulhu - Unofficial german compendiums for Call of Cthulhu",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -35,7 +35,9 @@
       "sorting": "a",
       "color": "#7d007d",
       "packs": [
-        "fertigkeiten"
+        "fertigkeiten",
+        "waffen",
+        "charaktere"
       ]
     }
   ],
@@ -44,6 +46,28 @@
       "name": "fertigkeiten",
       "label": "Fertigkeiten",
       "path": "packs/de-skills",
+      "type": "Item",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "waffen",
+      "label": "Waffen",
+      "path": "packs/de-weapons",
+      "type": "Item",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "charaktere",
+      "label": "Charaktere",
+      "path": "packs/de-characters",
       "type": "Item",
       "system": "CoC7",
       "ownership": {
