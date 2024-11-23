@@ -37,52 +37,52 @@ results:
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Acrophobie'
-    documentId: 'p0t15enMtk3uTAlj'
+    documentId: 'JPbTOVd7Rkd3XshV'
   - type: pack
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Arachnophobie'
-    documentId: 'qRnd6M1Tshzw76Ny'
+    documentId: 'AeArhZExNEzEM2TM'
   - type: pack
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Bibliophobie'
-    documentId: '4AeOJTb8YE9wbaCe'
+    documentId: 'UQuDk7FX5jNPGe1t'
   - type: pack
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Eisoptrophobie'
-    documentId: 'DciWR1txuAq4kWCy'
+    documentId: 'fOviPCNNpMC7oHjx'
   - type: pack
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Hemaphobie'
-    documentId: 'hSeCmtgrYGvZ32QS'
+    documentId: 'NBtkxRTEVbMxTyQl'
   - type: pack
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Necrophobie'
-    documentId: 'N8GbNhQMLUx0dINh'
+    documentId: 'n6Us8tP74ZC8mwU6'
   - type: pack
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Odontophobie'
-    documentId: 'zH0DG90l9NgTq0hr'
+    documentId: 'KWuf62MRmDPcWrkU'
   - type: pack
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Pyrophobie'
-    documentId: '5YXHhTzaSarN72DR'
+    documentId: 'zVN5bWVBWBuf2nAw'
   - type: pack
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Telephonophobie'
-    documentId: 'z2HNXPNGHdr6IKzt'
+    documentId: 'Srv7SsK2PoPGxTHM'
   - type: pack
     img: icons/svg/aura.svg
     documentCollection: 'coc7-foundry-vtt-german-compendiums.phobienundmanien'
     text: 'Xenophobie'
-    documentId: '0ITh5OlkMYtSLi9S'
+    documentId: 'P7hsHhUGVvvkei2q'
 flags:
   CoC7:
     cocidFlag:
@@ -101,7 +101,7 @@ results:
       - 1
       - 10
     text: 'Anfälle von Wahnsinn (Echtzeit)'
-    documentId: 'DGd9QwhMguct5kJr'
+    documentId: 'CJXhbDlNlws0piup'
     img: 'icons/svg/d20-grey.svg'
   - type: pack
     documentCollection: 'coc7-foundry-vtt-german-compendiums.wuerfeltabellen'
