@@ -8,6 +8,7 @@ name: Manien
 type: folder
 color: '#75844c'
 ---
+_id: RSBgVRZFUDDCNhXo
 name: Agathomanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -24,6 +25,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: EaKLI16AeflyGtUy
 name: Algomanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -40,6 +42,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: bewOYRIgOXcFVT48
 name: Amenomanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -56,6 +59,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: lVj5VQLKa3qNMO1N
 name: Bibliokleptomanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -72,6 +76,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: tfU5EJwc4jxU67Wp
 name: Dikemanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -88,6 +93,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: uXaBJzAGkgIiKbdE
 name: Geliomanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -104,6 +110,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: QrruiWO4YPYO4ND5
 name: Klazomanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -120,6 +127,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: yVUmHYY5eCaxutZt
 name: Kleptomanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -136,6 +144,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: y6ANMyrvi0eVH44f
 name: Nosomanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -152,6 +161,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: mq9OFQH0asOgJ9YK
 name: Pseudomanie
 type: status
 img: icons/svg/ice-aura.svg
@@ -168,6 +178,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: JPbTOVd7Rkd3XshV
 name: Acrophobie
 type: status
 img: icons/svg/aura.svg
@@ -184,6 +195,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: AeArhZExNEzEM2TM
 name: Arachnophobie
 type: status
 img: icons/svg/aura.svg
@@ -200,6 +212,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: UQuDk7FX5jNPGe1t
 name: Bibliophobie
 type: status
 img: icons/svg/aura.svg
@@ -216,6 +229,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: fOviPCNNpMC7oHjx
 name: Eisoptrophobie
 type: status
 img: icons/svg/aura.svg
@@ -232,6 +246,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: NBtkxRTEVbMxTyQl
 name: Hemaphobie
 type: status
 img: icons/svg/aura.svg
@@ -248,6 +263,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: n6Us8tP74ZC8mwU6
 name: Necrophobie
 type: status
 img: icons/svg/aura.svg
@@ -264,6 +280,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: KWuf62MRmDPcWrkU
 name: Odontophobie
 type: status
 img: icons/svg/aura.svg
@@ -280,6 +297,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: zVN5bWVBWBuf2nAw
 name: Pyrophobie
 type: status
 img: icons/svg/aura.svg
@@ -296,6 +314,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: Srv7SsK2PoPGxTHM
 name: Telephonophobie
 type: status
 img: icons/svg/aura.svg
@@ -312,6 +331,7 @@ flags:
       lang: de
       priority: 0
 ---
+_id: P7hsHhUGVvvkei2q
 name: Xenophobie
 type: status
 img: icons/svg/aura.svg
