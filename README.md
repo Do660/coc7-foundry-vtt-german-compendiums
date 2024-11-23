@@ -28,3 +28,5 @@
 Dieses Projekt orientiert sich an [dem inoffiziellen CoC7 Spielsystem für Foundry.](https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT)
 Bei der Erstellung und Automatisierung der Kompendien wurde sich stark an deren englischen Beispiel-Kompendien orientiert.
 Die build-compendium.js und generate-compendium.js, so wie die Rohfassungen der compendiums-yamls wurden von diesem Projekt übernommen.
+
+“This module uses trademarks and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which are used under Chaosium Inc’s Fan Material Policy. We are expressly prohibited from charging you to use or access this content. This module is not published, endorsed, or specifically approved by Chaosium Inc. For more information about Chaosium Inc’s products, please visit www.chaosium.com.”
