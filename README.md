@@ -29,4 +29,12 @@ Dieses Projekt orientiert sich an [dem inoffiziellen CoC7 Spielsystem für Found
 Bei der Erstellung und Automatisierung der Kompendien wurde sich stark an deren englischen Beispiel-Kompendien orientiert.
 Die build-compendium.js und generate-compendium.js, so wie die Rohfassungen der compendiums-yamls wurden von diesem Projekt übernommen.
 
-_This module uses trademarks and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which are used under Chaosium Inc’s Fan Material Policy. We are expressly prohibited from charging you to use or access this content. This module is not published, endorsed, or specifically approved by Chaosium Inc. For more information about Chaosium Inc’s products, please visit www.chaosium.com._
+_This module uses trademarks and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which are used under [Chaosium Inc's Fan Material Policy](https://www.chaosium.com/fan-material-policy/). We are expressly prohibited from charging you to use or access this content. This module is not published, endorsed, or specifically approved by Chaosium Inc. For more information about Chaosium Inc’s products, please visit www.chaosium.com._
+
+> Permission is given for users to make derivative use of the work on the Foundry VTT platform. No rights for any commercial use are granted. No part of this work may be reproduced or distributed for use outside of the Foundry VTT platform. All rights are reserved with Chaosium Inc.
+>
+> Call of Cthulhu (tm) Chaosium, Inc. Used with permission. All rights reserved.
+>
+> The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+>
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
