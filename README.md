@@ -29,6 +29,10 @@ Dieses Projekt orientiert sich an [dem inoffiziellen CoC7 Spielsystem für Found
 Bei der Erstellung und Automatisierung der Kompendien wurde sich stark an deren englischen Beispiel-Kompendien orientiert.
 Die build-compendium.js und generate-compendium.js, so wie die Rohfassungen der compendiums-yamls wurden von diesem Projekt übernommen.
 
+## Lizenzen / Licenses
+
+Foundry VTT support is covered by Limited License Agreement for Module Development.
+
 _This module uses trademarks and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which are used under [Chaosium Inc's Fan Material Policy](https://www.chaosium.com/fan-material-policy/). We are expressly prohibited from charging you to use or access this content. This module is not published, endorsed, or specifically approved by Chaosium Inc. For more information about Chaosium Inc’s products, please visit www.chaosium.com._
 
 > Permission is given for users to make derivative use of the work on the Foundry VTT platform. No rights for any commercial use are granted. No part of this work may be reproduced or distributed for use outside of the Foundry VTT platform. All rights are reserved with Chaosium Inc.
