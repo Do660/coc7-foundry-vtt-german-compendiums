@@ -7,6 +7,7 @@
 * Inoffizielle deutsche Kompendien zur Verwendung im Call of Cthulhu 7. Edition System für Foundry VTT.
 * Enthält einige Skills, Waffen, Items, etc... mit Verweisen auf das Originalmaterial von Chaosium, um eine schnellere Möglichkeit der Erstellung von Szenarios und des Spielens mit dem Call of Cthulhu-System anzubieten
 * Im Aufbau - Bitte gebt mir Feedback oder Zeit, um alles korrekt zu übersetzen. Es können einige Fehler auftreten, bis alles korrekt gelesen und gespielt wurde.
+* Nur für den privaten Gebrauch
 
 ## Installation
 
@@ -14,9 +15,7 @@
   [Module-URL](https://foundryvtt.com/packages/CoC7/)
 * (Optional) Installiere/Aktualisiere das _German [Core]_ Modul über den Modulmanager von Foundry:
   [Module-URL](https://foundryvtt.com/packages/lang-de/)
-* (TBD) Installiere/Aktualisiere das _Kompendien: Deutsch (Call of Cthulhu 7th edition)_ Modul über den Modulmanager von Foundry: Modul-URL
-  [Module-URL](https://foundryvtt.com/packages/coc7-foundry-vtt-german-compendiums/)
-  * Solange noch nicht im Modulmanager zu finden, schnappe dir die module.json aus den Releases oder nutze den [Direktlink](https://github.com/Do660/coc7-foundry-vtt-german-compendiums/releases/latest/download/module.json)
+* Schnappe dir die module.json aus den Releases oder nutze den [Direktlink](https://github.com/Do660/coc7-foundry-vtt-german-compendiums/releases/latest/download/module.json)
 * Aktiviere im Spielwelt-Menü unter _Spieleinstellungen/Module verwalten_ das deutsche Kompendiumspaket.
 * Ändere unter _Spieleinstellungen/Einstellungen anpassen_ die Sprache auf Deutsch.
 * Nach der Installation befinden sich die Kompendien im Unterordner _Cthulhus Ruf 7. Auflage Pen&Paper_
