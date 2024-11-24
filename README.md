@@ -5,6 +5,7 @@
 ## Beschreibung
 
 * Inoffizielle deutsche Kompendien zur Verwendung im Call of Cthulhu 7. Edition System für Foundry VTT.
+* Enthält einige Skills, Waffen, Items, etc... mit Verweisen auf das Originalmaterial von Chaosium, um eine schnellere Möglichkeit der Erstellung von Szenarios und des Spielens mit dem Call of Cthulhu-System anzubieten
 * Im Aufbau - Bitte gebt mir Feedback oder Zeit, um alles korrekt zu übersetzen. Es können einige Fehler auftreten, bis alles korrekt gelesen und gespielt wurde.
 
 ## Installation
