@@ -4,7 +4,7 @@
 
 ## Beschreibung
 
-* Inoffizielle deutsche Kompendien zur Verwendung im Call of Cthulhu 7. Edition System für Foundry VTT.
+* Inoffizielle deutsche Kompendien zur Verwendung im inoffiziellen Call of Cthulhu 7. Edition System für Foundry VTT.
 * Enthält einige Skills, Waffen, Items, etc... mit Verweisen auf das Originalmaterial von Chaosium, um eine schnellere Möglichkeit der Erstellung von Szenarios und des Spielens mit dem Call of Cthulhu-System anzubieten
 * Im Aufbau - Bitte gebt mir Feedback oder Zeit, um alles korrekt zu übersetzen. Es können einige Fehler auftreten, bis alles korrekt gelesen und gespielt wurde.
 * Nur für den privaten Gebrauch
@@ -26,8 +26,7 @@
 
 ## Besonderer Dank und Inspiration
 
-Dieses Projekt orientiert sich an [dem inoffiziellen CoC7 Spielsystem für Foundry.](https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT)
-Bei der Erstellung und Automatisierung der Kompendien wurde sich stark an deren englischen Beispiel-Kompendien orientiert.
+Dieses Projekt orientiert sich an der Kompendien-Dateistruktur [des inoffiziellen CoC7 Spielsystem für Foundry](https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT) und wurde für dieses System entwickelt entwickelt.
 Die build-compendium.js und generate-compendium.js, so wie die Rohfassungen der compendiums-yamls wurden von diesem Projekt übernommen.
 
 ## Lizenzen / Licenses
