@@ -2,7 +2,7 @@
   "id": "coc7-foundry-vtt-german-compendiums",
   "title": "Kompendien: Deutsch (Call of Cthulhu 7th edition)",
   "description": "Inoffizielle deutsche Kompendien für Call of Cthulhu - Unofficial german compendiums for Call of Cthulhu",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -100,7 +100,7 @@
       }
     }
   ],
-  "system": "CoC7",
+  "system": ["CoC7"],
   "url": "https://github.com/Do660/coc7-foundry-vtt-german-compendiums",
   "manifest": "https://raw.githubusercontent.com/Do660/coc7-foundry-vtt-german-compendiums/main/module.json",
   "download": "https://github.com/Do660/coc7-foundry-vtt-german-compendiums/releases/latest/download/module.zip"
