@@ -15,7 +15,7 @@
   [Module-URL](https://foundryvtt.com/packages/CoC7/)
 * (Optional) Installiere/Aktualisiere das _German [Core]_ Modul über den Modulmanager von Foundry:
   [Module-URL](https://foundryvtt.com/packages/lang-de/)
-* Schnappe dir die module.json aus den Releases oder nutze den [Direktlink](https://github.com/Do660/coc7-foundry-vtt-german-compendiums/releases/latest/download/module.json)
+* Schnappe dir die module.json aus den Releases oder nutze den [Direktlink](https://github.com/Do660/coc7-foundry-vtt-german-compendiums/releases/latest/download/module.json) und installiere das Modul über den Modulmanager von Foundry.
 * Aktiviere im Spielwelt-Menü unter _Spieleinstellungen/Module verwalten_ das deutsche Kompendiumspaket.
 * Ändere unter _Spieleinstellungen/Einstellungen anpassen_ die Sprache auf Deutsch.
 * Nach der Installation befinden sich die Kompendien im Unterordner _Cthulhus Ruf 7. Auflage Pen&Paper_
