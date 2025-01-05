@@ -154,9 +154,6 @@ system:
     - i.skill.cthulhu-mythos
     - i.skill.dodge
     - i.skill.fighting-brawl
-    - i.skill.fighting-throw
-    - i.skill.firearms-handgun
-    - i.skill.firearms-rifle-shotgun
     - i.skill.first-aid
     - i.skill.heimatkunde
     - i.skill.herrisch_sein
@@ -172,12 +169,9 @@ system:
     - i.skill.zuendeln
     - i.weapon.brawl
   bioSections:
-    - Beschreibung
-    - Glaube/Weltsicht
-    - Wichtige Personen
-    - Bedeutsame Orte
-    - Gehüteter Besitz
-    - Wesenszüge
+    - Ausrüstung und Besitz
+    - Das bist du
+    - Das wissen die anderen über dich
 flags:
   CoC7:
     cocidFlag:
