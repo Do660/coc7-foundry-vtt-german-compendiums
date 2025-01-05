@@ -141,3 +141,57 @@ flags:
       eras:
         modern: true
       priority: 0
+---
+_id: KidthulhuGFhAcCj
+name: Kidthulhu Character
+type: setup
+img: icons/svg/item-bag.svg
+system:
+  description:
+    value: <p>Core-Character für ein Kidthulhu Setup</p>
+  source: ''
+  items:
+    - i.skill.cthulhu-mythos
+    - i.skill.dodge
+    - i.skill.fighting-brawl
+    - i.skill.fighting-throw
+    - i.skill.firearms-handgun
+    - i.skill.firearms-rifle-shotgun
+    - i.skill.first-aid
+    - i.skill.heimatkunde
+    - i.skill.herrisch_sein
+    - i.skill.kram_bemerken
+    - i.skill.kram_zusammenflicken
+    - i.skill.kumpel_sein
+    - i.skill.lesen_schreiben_rechnen
+    - i.skill.raffiniert_sein
+    - i.skill.sachkunde
+    - i.skill.sticheln
+    - i.skill.turnen
+    - i.skill.unheimlicher_kram
+    - i.skill.zuendeln
+    - i.weapon.brawl
+  bioSections:
+    - Beschreibung
+    - Glaube/Weltsicht
+    - Wichtige Personen
+    - Bedeutsame Orte
+    - Gehüteter Besitz
+    - Wesenszüge
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.setup.kidthulhu
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0

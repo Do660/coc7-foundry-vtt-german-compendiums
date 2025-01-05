@@ -2164,3 +2164,339 @@ flags:
         downDarkerTrailsPulp: true
       priority: 0
 ---
+_id: Kidthulhut2AxQok
+name: Heimatkunde
+type: skill
+img: systems/CoC7/assets/icons/skills/natural_world.svg
+system:
+  description:
+    value: Vereint Naturkunde, Orientierung, Spurensuche und Überleben
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.heimatkunde
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut2Axjok
+name: Herrisch sein
+type: skill
+img: systems/CoC7/assets/icons/skills/persuade.svg
+system:
+  description:
+    value: Vereint Einschüchtern und Überzeugen
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.herrisch_sein
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut2Axhgk
+name: Kram bemerken
+type: skill
+img: systems/CoC7/assets/icons/skills/spot_hidden.svg
+system:
+  description:
+    value: Vereint Horchen und Verborgenes erkennen
+  base: 25
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.kram_bemerken
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut5Axjok
+name: Kram zusammenflicken
+type: skill
+img: systems/CoC7/assets/icons/skills/electrical_repair.svg
+system:
+  description:
+    value: Vereint Mechanische Reparaturen und Elektrische Reparaturen - Mit Abzug auch auf Schlösser knacken
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.kram_zusammenflicken
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut2AxjVk
+name: Kumpel sein
+type: skill
+img: systems/CoC7/assets/icons/skills/psychology.svg
+system:
+  description:
+    value: Vereint Psychologie und Psychoanalyse
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.kumpel_sein
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut42xjVk
+name: Lesen, Schreiben & Rechnen
+type: skill
+img: systems/CoC7/assets/icons/skills/library_use.svg
+system:
+  description:
+    value: Vereint Buchführung, Muttersprache und Bibliotheksnutzung
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.lesen_schreiben_rechnen
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut43xjVk
+name: Raffiniert sein
+type: skill
+img: systems/CoC7/assets/icons/skills/stealth.svg
+system:
+  description:
+    value: Vereint Kaschieren und Verborgen bleiben
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.raffiniert_sein
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut44xjVk
+name: Sachkunde
+type: skill
+img: systems/CoC7/assets/icons/skills/science_physics.svg
+system:
+  description:
+    value: Vereint alle wissenschaftlichen Fertigkeiten - von Astronomie bis Zoologie
+  base: 10
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.sachkunde
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut45xjVk
+name: Sticheln
+type: skill
+img: systems/CoC7/assets/icons/skills/intimidate.svg
+system:
+  description:
+    value: Eine einzigartige Fertigkeit, die jemanden Ablenken oder Provozieren kann
+  base: 0
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.sticheln
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut46xjVk
+name: Turnen
+type: skill
+img: systems/CoC7/assets/icons/skills/swim.svg
+system:
+  description:
+    value: Umfasst alle körperlichen Aktivitäten wie Rennen, Springen, Schwimmen, Werfen, Klettern usw.
+  base: 20
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.turnen
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut47xjVk
+name: Unheimlicher Kram
+type: skill
+img: systems/CoC7/assets/icons/skills/occult.svg
+system:
+  description:
+    value: Okkultimus - Nur für Kinder
+  base: 5
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.unheimlicher_kram
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
+_id: Kidthulhut48xjVk
+name: Zündeln
+type: skill
+img: systems/CoC7/assets/icons/skills/hypnosis.svg
+system:
+  description:
+    value: Beinhaltet Feuer entfachen, Fallen bauen, oder sonstigen Schaden durch Haushaltsmittel oder andere Arten zufügen
+  base: 0
+  properties:
+    push: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.zuendeln
+      lang: de
+      eras:
+        standard: true
+        modern: true
+        modernPulp: true
+        pulp: true
+        downDarkerTrails: true
+        downDarkerTrailsPulp: true
+        gasLight: true
+        regency: true
+        regencyPulp: true
+        reignOfTerror: true
+      priority: 0
+---
