@@ -143,12 +143,12 @@ flags:
       priority: 0
 ---
 _id: KidthulhuGFhAcCj
-name: Kidthulhu Character
+name: Kidhulhu Character
 type: setup
 img: icons/svg/item-bag.svg
 system:
   description:
-    value: <p>Core-Character für ein Kidthulhu Setup</p>
+    value: <p>Core-Character für ein Kidhulhu Setup</p>
   source: ''
   items:
     - i.skill.cthulhu-mythos
@@ -175,7 +175,7 @@ system:
 flags:
   CoC7:
     cocidFlag:
-      id: i.setup.kidthulhu
+      id: i.setup.kidhulhu
       lang: de
       eras:
         standard: true

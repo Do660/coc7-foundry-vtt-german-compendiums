@@ -2478,7 +2478,7 @@ type: skill
 img: systems/CoC7/assets/icons/skills/hypnosis.svg
 system:
   description:
-    value: Beinhaltet Feuer entfachen, Fallen bauen, oder sonstigen Schaden durch Haushaltsmittel oder andere Arten zufügen
+    value: Beinhaltet Feuer entfachen, Fallen bauen, oder sonstigen Schaden verursachen durch Haushaltsmittel oder andere Arten
   base: 0
   properties:
     push: true
@@ -2498,5 +2498,43 @@ flags:
         regency: true
         regencyPulp: true
         reignOfTerror: true
+      priority: 0
+---
+_id: VwGWZ33Q9wtMaw08
+name: Fernkampf (Zwille)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_bow.svg
+system:
+  description:
+    value: <p>Skill für Zwille</p>
+  base: 15
+  properties:
+    firearm: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.zwille
+      lang: de
+      priority: 0
+---
+_id: VwGW444Q9wtMaw08
+name: Fernkampf (Luftgewehr)
+type: skill
+img: systems/CoC7/assets/icons/skills/firearms_rifle_shotgun.svg
+system:
+  description:
+    value: <p>Skill für Luftgewehre</p>
+  base: 15
+  properties:
+    firearm: true
+    combat: true
+    special: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.skill.luftgewehr
+      lang: de
       priority: 0
 ---

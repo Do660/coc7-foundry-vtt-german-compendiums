@@ -2,7 +2,7 @@
   "id": "coc7-foundry-vtt-german-compendiums",
   "title": "Kompendien: Deutsch (Call of Cthulhu 7th edition)",
   "description": "Inoffizielle deutsche Kompendien für Call of Cthulhu - Unofficial german compendiums for Call of Cthulhu",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -31,7 +31,7 @@
   ],
   "packFolders": [
     {
-      "name": "Cthulhu 7. Auflage Pen&Paper Inoffiziell",
+      "name": "Cthulhu 7. Auflage Pen&Paper (Inoffiziell)",
       "sorting": "a",
       "color": "#7d007d",
       "packs": [

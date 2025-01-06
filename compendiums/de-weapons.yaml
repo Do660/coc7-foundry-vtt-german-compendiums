@@ -28,6 +28,11 @@ name: Maschinengewehre
 type: folder
 color: '#75844c'
 ---
+_id: KIDcRDEeZED0VpyQ
+name: Kidhulhu
+type: folder
+color: '#75844c'
+---
 name: Bogen und Pfeile
 type: weapon
 img: icons/weapons/bows/shortbow-white.webp
@@ -1152,3 +1157,139 @@ flags:
       id: i.weapon.brawl
       lang: de
       priority: 0
+---
+name: Baseballschläger
+type: weapon
+img: icons/weapons/clubs/club-baton-blue.webp
+folder: 2r5xD2GY15lSTtEm
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D8'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.baseballschlaeger
+      lang: de
+      priority: 0
+---
+name: Zwille
+type: weapon
+img: icons/commodities/stone/boulder-grey.webp
+folder: KIDcRDEeZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.zwille'
+  range:
+    normal:
+      value: '@STR/2'
+      damage: '1D2'
+  bullets: 1
+  properties:
+    rngd: true
+    addb: false
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.zwille
+      lang: de
+      priority: 0
+---
+name: Luftgewehr
+type: weapon
+img: icons/weapons/guns/gun-wood.webp
+folder: KIDcRDFFZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.luftgewehr'
+  range:
+    normal:
+      value: 10
+      damage: '1D3'
+  bullets: 1
+  properties:
+    rngd: true
+    addb: false
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.luftgewehr
+      lang: de
+      priority: 0
+---
+name: Holzschwert
+type: weapon
+img: icons/weapons/clubs/club-baton-blue.webp
+folder: KIDcRDEeZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D6'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.holzschwert
+      lang: de
+      priority: 0
+---
+name: Kleiner Bogen und stumpfe Pfeile
+type: weapon
+img: icons/weapons/bows/shortbow-white.webp
+folder: KIDcRDEeZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.firearms-bow'
+  range:
+    normal:
+      value: 10
+      damage: '1D3'
+  bullets: 1
+  properties:
+    rngd: true
+    ahdb: true
+  malfunction: 100
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.bow
+      lang: en
+      priority: 0
+---
+name: (Zauber-)Holzstab
+type: weapon
+img: icons/weapons/clubs/club-baton-blue.webp
+folder: KIDcRDEeZED0VpyQ
+system:
+  skill:
+    main:
+      name: 'i.skill.fighting-brawl'
+  range:
+    normal:
+      damage: '1D5'
+  properties:
+    melee: true
+    addb: true
+flags:
+  CoC7:
+    cocidFlag:
+      id: i.weapon.zauberholzstab
+      lang: de
+      priority: 0
+---
